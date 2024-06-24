@@ -5,5 +5,5 @@ x = np.linspace(0,1,100)
 y = 3*x**2 + 2*x +5
 
 plt.figure()
-plt.plot(x,y,'r-')
+plt.plot(x,y,'ro-')
 
